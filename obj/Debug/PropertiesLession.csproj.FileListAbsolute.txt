@@ -1,0 +1,7 @@
+C:\Users\оралове\source\repos\PropertiesLession\PropertiesLession\bin\Debug\PropertiesLession.exe.config
+C:\Users\оралове\source\repos\PropertiesLession\PropertiesLession\bin\Debug\PropertiesLession.exe
+C:\Users\оралове\source\repos\PropertiesLession\PropertiesLession\bin\Debug\PropertiesLession.pdb
+C:\Users\оралове\source\repos\PropertiesLession\PropertiesLession\obj\Debug\PropertiesLession.csprojAssemblyReference.cache
+C:\Users\оралове\source\repos\PropertiesLession\PropertiesLession\obj\Debug\PropertiesLession.csproj.CoreCompileInputs.cache
+C:\Users\оралове\source\repos\PropertiesLession\PropertiesLession\obj\Debug\PropertiesLession.exe
+C:\Users\оралове\source\repos\PropertiesLession\PropertiesLession\obj\Debug\PropertiesLession.pdb
